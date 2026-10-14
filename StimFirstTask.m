@@ -1,4 +1,3 @@
-%% SPATUAL EXP
 function [Results, TimeMat] = StimFirstTask(Timing, Sizes, TrialMat, EEG)
 % Open the psychtoolbox window
 [Win, rect]=Screen('OpenWindow',0, [127 127 127],[0 0 800 500]); % 
