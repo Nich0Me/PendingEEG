@@ -35,7 +35,7 @@ close all
 
 %% Add FieldTrip
 restoredefaultpath      % remove any other FieldTrip version from the path
-addpath('/Volumes/INTENSO/Documents/MATLAB/Toolbox/fieldtrip-20261001')
+addpath('./Toolbox/fieldtrip-20261001')
 ft_defaults
 
 %% Parameters
