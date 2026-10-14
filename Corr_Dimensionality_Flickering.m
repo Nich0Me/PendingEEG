@@ -2,7 +2,7 @@ clear all
 close all
 
 %% Add FieldTrip
-addpath('/Volumes/INTENSO/Documents/MATLAB/Toolbox/fieldtrip-20220514')
+addpath('./Toolbox/fieldtrip-20220514')
 ft_defaults
 
 %% Parameters
