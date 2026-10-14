@@ -3,8 +3,8 @@ clear all
 close all
 
 %addpath('./Functions')
-addpath('/Users/menghi/Documents/MATLAB/Toolbox/fieldtrip-20220514')
-addpath('/Users/menghi/Documents/MATLAB/Toolbox/refa8import_v1.3')
+addpath('./Toolbox/fieldtrip-20220514')
+addpath('./Toolbox/refa8import_v1.3')
 ft_defaults
 
 %% PREPROCESSING
