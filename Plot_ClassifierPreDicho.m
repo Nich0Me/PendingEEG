@@ -1,7 +1,7 @@
 clear all
 %close all
 
-addpath('/Users/menghi/Documents/MATLAB/Toolbox/fieldtrip-20220514')
+addpath('./Toolbox/fieldtrip-20220514')
 ft_defaults
 
 cue_first = 0;
